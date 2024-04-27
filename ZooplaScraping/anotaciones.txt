@@ -1,0 +1,27 @@
+Necesito 
+URLs, 
+nombre de la agencia, : div / h1 style="" / a href / (obviar url solo nombre)
+teléfono,: span class="agent_phone" ahref (obviar todo)
+dirección,: 
+ciudad, 
+código postal y 
+servicios (en venta, en alquiler)
+
+div id="content" class="layout-standard"
+ul class="listing-results clearfix js-gtm-list"
+li 
+
+____________________________
+branches
+
+Necesito 
+URLs, 
+nombre de la agencia, : 
+teléfono,: 
+dirección,: 
+ciudad, :
+código postal . 
+servicios (en venta, en alquiler) :
+
+div class="agents-results"
+div class="agents-results-branch clearfix"
